@@ -1,5 +1,5 @@
-print("Hello World")
-print("Hello everybody")
-вау
-принт("хэлло май дир фрэнд")
-принт("глэд ту си ю")
+print("Hello World");
+print("Hello everybody");
+вау;
+принт("хэлло май дир фрэнд");
+принт("глэд ту си ю");
