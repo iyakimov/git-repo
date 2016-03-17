@@ -1,3 +1,4 @@
 print("Hello World")
 print("Hello everybody")
 вау
+принт("хэлло май дир фрэнд")
